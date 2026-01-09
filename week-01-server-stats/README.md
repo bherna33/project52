@@ -24,8 +24,8 @@ This script uses the `top` command to do all the work.
 This grabs the CPU, Memory, and Disk and all its processes.
 
 To run it download the repo.
+
 ```Bash
 cd project52/week-01-server-stats/src/
 bash server-stats.sh 
 ```
-
