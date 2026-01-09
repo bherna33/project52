@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload week2
-          path: './week-02-website/src/index.html'
+          path: './week-02-website/src/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
