@@ -5,6 +5,8 @@
 **Topic:** WebDev
 **Idea:** A place to house all my projects for the year.
 
+[website](https://bherna33.github.io/project52/)
+
 ### Tech Stack
 
 **Languages:** HTML, CSS
@@ -21,4 +23,4 @@
 This is a static website that uses `HTML` and `CSS`.
 This also uses `GitHub Actions` to deploy the website to `GitHub Pages`.
 
-With GitHub Actions there is a `deploy.yml` file that handles the deployment.
+With GitHub Actions there is a `static.yml` file that handles the deployment.
